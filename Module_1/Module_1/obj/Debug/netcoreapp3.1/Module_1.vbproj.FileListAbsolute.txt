@@ -1,0 +1,14 @@
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.exe
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.deps.json
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.runtimeconfig.json
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.runtimeconfig.dev.json
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.dll
+D:\Visual_Basic\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.pdb
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.vbproj.AssemblyReference.cache
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.AssemblyInfoInputs.cache
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.AssemblyInfo.vb
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.vbproj.CoreCompileInputs.cache
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.dll
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.pdb
+D:\Visual_Basic\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.genruntimeconfig.cache
